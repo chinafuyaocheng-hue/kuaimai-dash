@@ -1,0 +1,10 @@
+# 只允许看板静态页进入仓库，排除任何其它文件
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/7eaf19cc0ec46dc78a5ae9d0/
+!/7eaf19cc0ec46dc78a5ae9d0/index.html
+!/7eaf19cc0ec46dc78a5ae9d0/api/
+!/7eaf19cc0ec46dc78a5ae9d0/api/status.json
+!/7eaf19cc0ec46dc78a5ae9d0/api/reissue_endpoint.json
